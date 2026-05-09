@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  display: none;
+}
+
+section {
+  width: 100%;
+  float: none;
+}
+
+footer {
+  display: none;
+}
